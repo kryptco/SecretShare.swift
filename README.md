@@ -8,6 +8,8 @@ This is scheme is information-theortic secure; An adversary with K-1
 or fewer secret shares would produce any data with equal probability,
 meaning fewer than K-1 shares reveal nothing about the secret data.
 
+### built at krypt.co
+
 <a href="https://krypt.co"><img src="https://krypt.co/static/dist/img/krypton_core_logo.svg" width="200"/> </a>
 
 __Krypton__ generates and stores an SSH + PGP key pair on a mobile phone. The
